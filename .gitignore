@@ -1,0 +1,5 @@
+# Carpetas que crea el script de prueba: no se suben a GitHub
+descargas_de_prueba/
+
+# Archivos que crea Python al ejecutar
+__pycache__/
